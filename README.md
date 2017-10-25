@@ -22,5 +22,6 @@ Plugin 'sniphpets/sniphpets-symfony'
 
 ## License
 
+*sniphpets*
 Copyright (c) Voronkovich Oleg. Distributed under the MIT.
 
