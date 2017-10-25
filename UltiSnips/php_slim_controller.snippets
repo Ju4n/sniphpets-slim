@@ -1,0 +1,17 @@
+priority -40
+
+snippet slcontroller "Slim3 / Controller / Controller class" b
+<?php
+
+namespace `!v sniphpets#resolve_namespace()`;
+
+use Slim\Http\Request;
+use Slim\Http\Response;
+
+class `!v sniphpets#basename()` extends Controller
+{
+	public function __invoke(Request $request, Response $response, $args = []) {
+		${0}
+	}
+}
+endsnippet
