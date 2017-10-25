@@ -20,9 +20,7 @@ Add to your vimrc:
 Plugin 'sniphpets/sniphpets-symfony'
 ```````
 
-## Licenses
-
-# Sniphpets
+## License
 
 Copyright (c) Voronkovich Oleg. Distributed under the MIT.
 
