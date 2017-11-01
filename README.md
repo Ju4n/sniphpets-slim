@@ -9,7 +9,7 @@ This plugin requires [Ultisnips](https://github.com/SirVer/ultisnips) and [sniph
 ### Using [pathogen](https://github.com/tpope/vim-pathogen)
 
 ```sh
-git clone https://github.com/sniphpets/sniphpets-symfony.git ~/.vim/bundle/sniphpets-symfony
+git clone https://github.com/Ju4n/sniphpets-slim.git ~/.vim/Ju4n/sniphpets-slim
 ```````
 
 ### Using [vundle](https://github.com/gmarik/vundle)
@@ -17,7 +17,7 @@ git clone https://github.com/sniphpets/sniphpets-symfony.git ~/.vim/bundle/sniph
 Add to your vimrc:
 
 ```vim
-Plugin 'sniphpets/sniphpets-symfony'
+Plugin 'Ju4n/sniphpets-slim'
 ```````
 
 ## License
